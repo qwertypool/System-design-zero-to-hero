@@ -1,84 +1,103 @@
-# System-design-zero-to-hero
-A complete beginner-to-advanced learning series with simple explanations + YouTube Shorts
-<p align="center"> <img src="assets/logo.png" alt="System Design Logo" width="180"/> </p> <p align="center"> <b>A structured, beginner-friendly roadmap to learn System Design from scratch — with expandable notes, visuals, and short video explanations.</b> </p>
-<p align="center">
+# 🚀 System Design — Zero to Hero
 
+A **beginner → advanced System Design roadmap** with short notes + YouTube Shorts.
 
-</p>
-🌟 Why This Repository Exists
+A structured, beginner-friendly roadmap to learn System Design from scratch — with expandable notes, visuals, and short video explanations.
 
-System Design concepts usually feel too complex, too abstract, or too overwhelming — especially for beginners and interview preparation.
+---
 
-This repository is created with one simple goal:
+## 🌟 Why this repository exists
 
-👉 Make system design extremely easy to understand, even if you have zero background.
+System Design often feels complex, abstract, or overwhelming — especially for beginners and interview prep.
 
-You will learn everything step-by-step, from very basic foundations to advanced topics, using:
+### 🎯 Goal  
+Make system design extremely easy to understand, even if you have zero background.
 
-🔹 Simple explanations
+### 📚 You will learn step-by-step using:
 
-🔹 Real-world examples
+- Simple explanations  
+- Real-world examples  
+- Expandable notes (`<details>` blocks)  
+- Paired YouTube Shorts for quick revision  
+- Interviewer’s favorite questions  
+- Fun facts to make concepts stick  
 
-🔹 Beginner-friendly diagrams (optional)
+---
 
-🔹 Expandable notes
+## 📘 What this repository covers
 
-🔹 YouTube Shorts paired with every topic
+### 🗺️ Phases Covered
 
-🔹 Interviewer’s favorite questions
+#### **Phase 1 — Foundations**  
+#### **Phase 2 — Core Concepts**  
+#### **Phase 3 — System Components + Networking**  
+#### **Phase 4 — Architectural Patterns**  
+#### **Phase 5 — Advanced Concepts (Beginner-friendly)**  
+#### **Phase 6 — System Design Interview Essentials**  
+#### **Phase 7 — Case Studies (Easy → Advanced)**  
 
-🔹 Fun facts to make concepts stick
+Each topic is written in a clean `<details>` expandable format and ends with a link placeholder to a YouTube Short.
 
-Whether you're preparing for FAANG, backend roles, SDE 1 → SDE 2 transitions, or simply strengthening fundamentals — this repo is designed for you.
+---
 
-📘 What This Repository Covers
+## 🧭 How to use this repo
 
-This is a complete roadmap from absolute beginner → confident system designer:
+1. Start at **Phase 1** (even experienced devs will find useful refreshers).  
+2. Expand the topic you want to learn.  
+3. Read the concise explanation + example.  
+4. Watch the paired YouTube Short.  
+5. Practice interviewer questions listed at the end of each topic.
 
-Phase 1: System Design Foundations
+---
 
-Phase 2: Core Concepts
+## ✅ Example Topic Format
 
-Phase 3: System Components + Networking
+This is how every topic will look:
 
-Phase 4: Architectural Patterns
+<details>
+  <summary><b>Sample Topic — Example</b></summary>
 
-Phase 5: Advanced Concepts (Beginner-friendly)
+### 📝 Explanation
+A short, simple explanation that a beginner can understand.
 
-Phase 6: System Design Interview Essentials
+### 🔍 Key Concepts
+- Short bullet 1  
+- Short bullet 2  
 
-Phase 7: Case Studies (Easy → Advanced)
+### 📘 Example
+A real-world example to make the idea click.
 
-Each topic is written in a clean <details> expandable format and ends with a link to a YouTube Short for quick revision.
+### ❓ Interviewer's Favorite Questions
+- Sample question 1  
+- Sample question 2  
 
-🧭 How to Use This Repo
+### 🎉 Fun Fact
+A small interesting fact or where this concept is used often.
 
-Start from Phase 1 (even if you're experienced — great refreshers).
+### ▶ YouTube Short
+[VIDEO_LINK]
 
-Expand any topic you want to learn.
+</details>
 
-Watch the paired YouTube Short for instant visual understanding.
+---
 
-Use interview questions to practice.
+---
 
-Come back anytime — this repository will keep growing.
+## 🔜 Upcoming Additions
 
-🎯 Target Audience
+- Diagrams for every topic  
+- One-page cheat sheets  
+- Playlists of Shorts and full videos  
+- Architecture templates and examples  
 
-Beginners learning system design for the first time
+---
 
-SDEs preparing for FAANG and top MNC interviews
+## ✍️ Contributing
 
-Backend developers improving architecture skills
-
-Students wanting real-world understanding of how systems work
-
-📌 Upcoming Additions
-
-Diagrams for each topic
-
-1-page summary sheets (cheat sheets)
-
-Video playlists
-
-Architecture templates
+1. Fork the repository  
+2. Add topics under the correct `phase-*` folder using the `<details>` format  
+3. Create a PR with:  
+   - a brief description  
+   - link to the YouTube Short (if available)  
+4. Follow the repo style:  
+   **Explanation → Key Concepts → Example → Interviewer Questions → Fun Fact → ▶ YouTube Short**
