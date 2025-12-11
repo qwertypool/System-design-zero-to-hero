@@ -1,0 +1,65 @@
+# System Design Zero to Hero - Documentation Repository
+# This repository is documentation-focused, so we ignore temporary and system files
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.cache
+
+# Diagram source files (optional - uncomment if you want to keep only exports)
+# *.drawio
+# *.excalidraw
+
+# Build outputs (if any documentation build tools are used)
+dist/
+build/
+out/
+_site/
+
+# Node modules (if using any documentation tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (if using any documentation tools)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.env
+
+# Misc
+*.orig

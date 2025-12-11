@@ -1,0 +1,17 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#2563eb" rx="20"/>
+  
+  <!-- Code symbol -->
+  <text x="100" y="80" font-family="monospace" font-size="60" fill="#ffffff" text-anchor="middle" font-weight="bold">&lt;/&gt;</text>
+  
+  <!-- Title text -->
+  <text x="100" y="130" font-family="Arial, sans-serif" font-size="18" fill="#ffffff" text-anchor="middle" font-weight="bold">System Design</text>
+  <text x="100" y="155" font-family="Arial, sans-serif" font-size="16" fill="#93c5fd" text-anchor="middle">Zero to Hero</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="30" cy="30" r="5" fill="#60a5fa" opacity="0.6"/>
+  <circle cx="170" cy="30" r="5" fill="#60a5fa" opacity="0.6"/>
+  <circle cx="30" cy="170" r="5" fill="#60a5fa" opacity="0.6"/>
+  <circle cx="170" cy="170" r="5" fill="#60a5fa" opacity="0.6"/>
+</svg>
