@@ -601,9 +601,8 @@ Design a location-based ride-sharing platform.
 
 ### Community
 
-- 💬 [Discussions](#) - Ask questions and share your designs
-- 🐛 [Issues](#) - Report errors or suggest improvements
-- 📧 Contact: [Your Email]
+- 💬 [Discussions](https://github.com/qwertypool/System-design-zero-to-hero/discussions) - Ask questions and share your designs
+- 🐛 [Issues](https://github.com/qwertypool/System-design-zero-to-hero/issues) - Report errors or suggest improvements
 
 ---
 
